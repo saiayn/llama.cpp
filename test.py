@@ -7,7 +7,6 @@ Follow the instructions below to complete the task. Only write
 """
 
 # user = """  # default
-#
 # """
 
 user = """GPT4 Correct User: Write a python script to print "Hello World! I am a deep neural network created by
